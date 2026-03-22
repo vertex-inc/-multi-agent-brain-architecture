@@ -86,7 +86,7 @@ taking care of your well-being.
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/brain.AI
+git clone https://github.com/vertex-inc/brain.AI
 cd brain.AI
 pip install -r requirements.txt
 ```
